@@ -1,0 +1,41 @@
+#empleado-bucar-container,
+#empleados-container{
+    margin-top: 100px;
+    
+}
+.react-bs-table-sizePerpage-dropdowwn .dropdowwn-toggle{
+    float: left;
+    margin-bottom: 20px;
+
+}
+.search-Label{
+    float: right;
+    padding-bottom: 10px;
+}
+.sr-only{
+    font-size: 0;
+}
+#empleados-crear-container .form-label{
+    float: left;
+    margin-top: 10px;
+
+}
+#empleados-buscar-container{
+    margin-top: 80px;
+    background-color: rgb(255, 238, 238);
+    padding: 50px;
+    border-radius: 50px;
+}
+#menu{
+    background-color: rgb(255, 238, 238);
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#empleados-crear-container{
+    margin-top: 30px;
+    background-color: rgb(255, 238, 238);
+    border-radius: 50px;
+    padding: 50px;
+    
+}

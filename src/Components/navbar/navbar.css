@@ -1,0 +1,13 @@
+#navbar .dropdown-header .Row:nth-child(1){
+    font-size: 190px;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+#navbar .dropdown-header .Row:nth-child(2){
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    background-color: red;
+}

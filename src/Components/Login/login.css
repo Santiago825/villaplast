@@ -1,0 +1,24 @@
+#login-container{
+    margin-top: 10%;
+    border: solid 1px black;
+    padding: 100px;
+    border-radius: 50px;
+    background-color: rgba(233, 224, 224, 0.233);
+}
+#login-container h2,
+#login-container button,
+#login-container form{
+    width: 100%;
+
+}
+#login-container button{
+    margin-top: 15px;
+}
+#login-container .form-label{
+    float: left;
+}
+body{
+    background-image: url("../../img/font.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
