@@ -2,6 +2,9 @@
   "name": "proyecto-back",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "16.18.0"
+  },
   "scripts": {
     "start": "nodemon ./bin/www"
   },
